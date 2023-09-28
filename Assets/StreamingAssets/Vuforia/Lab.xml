@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="image_2023-09-24_221738821" size="1.000000 0.284900" />
     <ImageTarget name="maze1" size="3.000000 2.970000" />
     <ImageTarget name="maze_bigger" size="3.000000 3.000000" />
     <ImageTarget name="maze2" size="1.000000 1.000000" />
